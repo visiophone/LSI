@@ -5,5 +5,9 @@ Introdução à Programação com Processing  /  *Introduction to Programming wi
 
 Rodrigo Carvalho - www.visiophone-lab.com
 
-Links:
-[Processing] http://processing.org/
+USEFUL LINKS:
+Processing: http://processing.org/
+Processing Reference: https://processing.org/reference/
+Openprocessing: https://www.openprocessing.org/
+
+
