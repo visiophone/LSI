@@ -1,5 +1,5 @@
 <d1>
-**LABORATORIO DE SOM E IMAGEM 2016/2017** 
+LABORATORIO DE SOM E IMAGEM 2016/2017
 <br>
 [Faculdade de Belas Artes . Universidade do Porto]
 <br>
@@ -13,7 +13,7 @@ Processing Reference: https://processing.org/reference/<br>
 Openprocessing: https://www.openprocessing.org/<br>
 <br>
 <br>
-**REFERENCES SHOWN IN CLASS /PROCESSING/INTERACTIVE ART / NEW MEDIA / ...**<br>
+REFERENCES SHOWN IN CLASS /PROCESSING/INTERACTIVE ART / NEW MEDIA / ...<br>
 [order of appearance]<br><br>
 
 *Audio Generated Objects /  DIANA LANGE / 2010<br>
