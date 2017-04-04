@@ -13,7 +13,7 @@ void draw(){
   background(0);
   stroke(255);
   textSize(20);
- text(hour()+" : "+minute(),20,30);
+  text(hour()+" : "+minute(),20,30);
   translate(width/2,height/2);
   rotate(radians(-90));
  
@@ -46,7 +46,7 @@ void draw(){
 //Relogio
 for(int i=0;i<360;i=i+360/60){
  pushMatrix();
-  rotate(radians(i));
+ rotate(radians(i));
  line(230,0,240,0);  
  popMatrix(); 
 }
