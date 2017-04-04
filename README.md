@@ -13,5 +13,6 @@ Processing Reference: https://processing.org/reference/<br>
 Openprocessing: https://www.openprocessing.org/<br>
 <br><br>
 
+REFERENCES SHOWED IN CLASS [PROCESSING/INTERACTIVE ART / NEW MEDIA / ...]
 
 </d1>
