@@ -11,8 +11,12 @@ USEFUL LINKS:<br>
 Processing: http://processing.org/<br>
 Processing Reference: https://processing.org/reference/<br>
 Openprocessing: https://www.openprocessing.org/<br>
-<br><br>
+<br>
 
-REFERENCES SHOWED IN CLASS [PROCESSING/INTERACTIVE ART / NEW MEDIA / ...]
+REFERENCES SHOWED IN CLASS <br>
+[PROCESSING/INTERACTIVE ART / NEW MEDIA / ...]<br>
+
+Audio Generated Objects /  DIANA LANGE / 2010<br>
+The Deepest of Space  / JOSHUA DAVIDS / 2015
 
 </d1>
