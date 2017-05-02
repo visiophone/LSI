@@ -7,14 +7,14 @@ AudioDevice device;
 
 
 // Define how many FFT bands we want
-int bands = 128;
+int bands = 8;
 
 // Create a smoothing vector
 float[] freq = new float[bands];
 
 
 void setup() {
-  size(640, 360);
+  size(800, 800);
   background(255);
   
   device = new AudioDevice(this, 44000, bands); //SETUP AUDIO DEVICE
@@ -27,8 +27,8 @@ void setup() {
 void draw() {
   // Set background color, noStroke and fill color
   background(0);
-  fill(255);
-  noStroke();
+  stroke(255);
+
 
   fft.analyze(); //analyse
 
@@ -36,8 +36,9 @@ void draw() {
     
     // smooth the FFT data by smoothing factor
     freq[i] += (fft.spectrum[i] - freq[i]) * 0.2;
-    
-    // draw the rects with a scale factor
-    rect( i*8, height, 8, -freq[i]*1000 );
+  
+ strokeWeight( freq[i]*2000);
+    line(0,i*100,width,i*100);
+
   }
 }

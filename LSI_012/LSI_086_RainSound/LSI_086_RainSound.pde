@@ -45,7 +45,7 @@ void draw(){
   for(int i=0;i<nr;i++){
     
     posY[i]=posY[i]+(velY[i]*amp*2);
-   fill(i);
+    fill(255,5,i/3);
    ellipse(posX[i],posY[i],5,5);
   
   //
