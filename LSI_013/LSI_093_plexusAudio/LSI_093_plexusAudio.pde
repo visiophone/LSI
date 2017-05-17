@@ -19,7 +19,7 @@ void setup(){
  
  //Audio Start
   device = new AudioDevice(this, 44000, bands); //SETUP AUDIO DEVICE
-  sample = new SoundFile(this, "alvanoto_U_06.mp3"); //LOAD SOUND FILE
+  sample = new SoundFile(this, "alvanoto_U_06.aiff"); //LOAD SOUND FILE
   sample.loop();
   fft = new FFT(this, bands); //Analyser
   fft.input(sample);
